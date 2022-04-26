@@ -1,6 +1,12 @@
 # Desafio de Projeto sobre Git/GitHub da DIO 
 Repositório criado para o Desafio de Projeto 
 
+Conteúdo:
+
+- Principais definições;
+- Comandos básicos;
+
+
 ## Links Úteis
 [Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/) ;
 [O QUE É GIT E GITHUB? - definição e conceitos importantes 1/2](https://www.youtube.com/watch?v=DqTITcMq68k) ;
