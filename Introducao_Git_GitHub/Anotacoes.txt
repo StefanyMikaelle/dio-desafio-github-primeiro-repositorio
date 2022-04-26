@@ -1,0 +1,36 @@
+Site para baixar o Git : https://git-scm.com/download/win
+
+-- Resumo da Teoria
+
+Git - Repositório para armazenar todas as versões de códigos realizadas.
+Commit - posta as alterações do projeto
+Branch - código paralelo
+Merge - Quando salvo o código paralelo (Branch) no meu código principal.
+E caso as alterações do paralelo e principal forem diferentes o Merge acontecerá
+sem problemas mas caso alterou os mesmos códigos terá que ser ajustado o Merge de 
+forma manual.
+Remote - faz ligação entre o repositório feito no Git para subir para o GitHub.
+Push - enviar as alterações do endereço Remote para o GitHub.
+Pull - Pega do reposit´roio do GitHubpara a sua máquina.
+
+-- Comandos do Git
+
+-> git --version (mostra a versão do Git)
+-> git unit (foi inicializado um repositório git vazio)
+-> git add (coloca "no palco" para ser chamado)
+-> git status (verifica se realmente foi salvo a alteração)
+-> git commit -m "main"
+-> shift + insert (para colar o link)
+-> git add . (sobe todos os arquivos alterados)
+-> git checkout -b " " ( cria um novo branch)
+-> git checkout main ( volta para o código principal)
+-> git merge " " (junta o branch na principal)
+-> cd "nome da pasta" ( entrar na pasta)
+-> git pull (depois aperta enter e atualiza os dados baixados)
+-> dir (vai listar todas as subpastas)
+-> cls ou clear (apaga tudo que foi digitado)
+-> TAB (função de autocompletar)
+-> mkdir "workspace - nome da pasta" (cria uma nova pasta)
+-> workspace > echo hello> hello.txt (digita hello no arquivo hello.txt)
+-> del workspace (deleta tudo na pasta workspace)
+-> cd .. (retrocede 1 nível)
